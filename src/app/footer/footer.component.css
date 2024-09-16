@@ -1,0 +1,32 @@
+
+.logo {
+  height: 30px; /* Adjust as needed */
+  width: auto;
+}
+
+.bg-light {
+  background-color: #f8f9fa; /* Light background color */
+}
+
+.text-black {
+  color: #000; /* Black text color */
+}
+
+.me-2 {
+  margin-right: 0.5rem; /* Margin between image and text */
+}
+
+.container {
+  max-width: 1140px; /* Adjust as needed */
+}
+
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.col {
+  display: flex;
+  align-items: center;
+}
+
